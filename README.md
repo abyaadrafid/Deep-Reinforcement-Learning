@@ -1,2 +1,2 @@
-# Reinforcement_Learning
-To keep track and showcase
+# Deep Reinforcement Learning
+Implementing and showcasing reinforcement learning algorithms with deep networks.
