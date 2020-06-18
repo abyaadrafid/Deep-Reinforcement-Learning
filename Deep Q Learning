@@ -3,7 +3,7 @@
   "nbformat_minor": 0,
   "metadata": {
     "colab": {
-      "name": "Deep and Double Deep Q Learning.ipynb",
+      "name": "Deep Q Learning.ipynb",
       "provenance": [],
       "collapsed_sections": [],
       "include_colab_link": true
@@ -32,7 +32,7 @@
         "colab_type": "text"
       },
       "source": [
-        "## Deep Q Learning"
+        "## Deep Q Learning with experience replay and fixed q targets"
       ]
     },
     {
