@@ -14,10 +14,11 @@ Implementing and showcasing reinforcement learning algorithms with deep networks
 
 ### Policy Gradient Methods
 
-1. Asynchronus Actor Critic
-2. Trust Region Policy Optimization
-3. GAE
-4. Soft Actor Critic
+1. Vanilla Policy Gradient
+2. Asynchronus Actor Critic
+3. Trust Region Policy Optimization
+4. GAE
+5. Soft Actor Critic
 
 ## Status
 For now only Deep Q learning notebook has some code explanations. Other notebooks are only code for the time being. I will keep adding texts explaning the methods used there.
