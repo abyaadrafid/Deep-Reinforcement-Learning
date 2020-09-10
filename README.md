@@ -1,29 +1,34 @@
 # Deep Reinforcement Learning
+
 Implementing and showcasing reinforcement learning algorithms with deep networks. Following [Open AI spinning up](https://spinningup.openai.com/en/latest/spinningup/keypapers.html) suggestions.
 
 ## Contents
-### Deep Q learning and its variants
+
+### Deep Q learning and Improvements
 
 1. Deep Q learning
 2. Deep Recurrent Q learning
-2. Double Deep Q learning
-3. Dueling Deep Q learning
-4. Dueling Double Deep Q learning
-5. Prioritized Experience Replay
-
+3. Double Deep Q learning
+4. Dueling Deep Q learning
+5. Dueling Double Deep Q learning
+6. Prioritized Experience Replay
 
 ### Policy Gradient Methods
 
-1. Vanilla Policy Gradient
-2. Asynchronus Actor Critic
-3. Trust Region Policy Optimization
-4. GAE
-5. Soft Actor Critic
+1. Vanilla Policy Gradient [Reinforce]
+2. Value Actor Critic
+3. Advantage Actor Crictic
+4. Proximal Policy Optimization
+5. GAE
+6. Soft Actor Critic
 
 ## Status
-For now only Deep Q learning notebook has some code explanations. Other notebooks are only code for the time being. I will keep adding texts explaning the methods used there.
+
+All implementations upto Advantage actor critic is done. Working on updating the comments.
 
 ## Todo
+
 1. Add texts explaining the inner workings of the codes.
 2. Solve other environments like cartpole and atari 2600.
-3. Use CNNs 
+3. Use CNNs.
+4. Actor critics are barebone. Will need to implement improvement methods for performance.
